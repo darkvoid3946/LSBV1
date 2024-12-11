@@ -1,4 +1,4 @@
-# LanschoolAir Blocker
+# LSBV1
 
 LanschoolAir Blocker is a windows program that stops the lanschool and lanschool air program from starting on your (school)computer
 
@@ -40,14 +40,6 @@ You can now delete the old file. The app will auto start.
 
 Dont use the pre-installed chrome app on your school-laptop because they can track it to. Just use an other browser.
 
-
-## Credits
-
-Please give credits to [me](https://iwannet.cc)
-
-## Support
-
-If you have questions, email me at [info@iwannet.cc](mailto:info@iwannet.cc)
 
 ## Disclaimer
 
