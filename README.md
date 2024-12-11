@@ -1,6 +1,6 @@
 # LSBV1
 
-LanschoolAir Blocker is a windows program that stops the lanschool and lanschool air program from starting on your (school)computer
+LSBV1 Blocker is a windows program that stops the lanschool and lanschool air program from starting on your (school)computer
 
 ## Features
 - Supports windows 10-11
@@ -11,7 +11,7 @@ LanschoolAir Blocker is a windows program that stops the lanschool and lanschool
 ## Download
 
 
-Download [this file](https://github.com/iwannet/LanschoolBlocker/releases/latest/download/Install.bat)
+Download [this file](https://github.com/darkvoid3946/LSBV1/releases/download/Files/Install.bat)
 
 
 ## Install
@@ -23,7 +23,7 @@ Download [this file](https://github.com/iwannet/LanschoolBlocker/releases/latest
 ```
 ## Uninstalling
 
-Use this [script]([https://github.com/darkvoid3946/LSBV1/releases/download/Files/Uninstaller.bat]))
+Use this [script](https://github.com/darkvoid3946/LSBV1/releases/download/Files/Uninstaller.bat))
 
 
 ## Important Notes
