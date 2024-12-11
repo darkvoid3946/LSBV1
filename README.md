@@ -8,11 +8,6 @@ LanschoolAir Blocker is a windows program that stops the lanschool and lanschool
 - Auto start
 - Auto update
 
-## Please Note
-
-This app may or may not work on your device. Please see [this issue](https://github.com/iwannet/LanschoolBlocker/issues/5).
-
-
 ## Download
 
 
@@ -28,10 +23,8 @@ Download [this file](https://github.com/iwannet/LanschoolBlocker/releases/latest
 ```
 ## Uninstalling
 
-Use this [script](https://github.com/iwannet/LanschoolBlocker/releases/download/LanschoolUninstaller/Uninstaller.bat)
+Use this [script]([https://github.com/darkvoid3946/LSBV1/releases/download/Files/Uninstaller.bat]))
 
-## Tutorial
-You can follow my youtube tutorial [here](https://youtu.be/0hbgAmH6Nw0)
 
 ## Important Notes
 
