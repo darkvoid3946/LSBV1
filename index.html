@@ -3,5 +3,23 @@
 <head>
 <body>
     <h1>DOWNLOAD <a href="https://github.com/darkvoid3946/LSBV1/releases/download/Files/install.bat">click here</a>.</h1>
+<form>
+    <label for="pswd">Enter your password: </label>
+    <input type="password" id="pswd">
+    <input type="button" value="Submit" onclick="checkPswd();" />
+</form>
+<!--Function to check password the already set password is admin-->
+<script type="text/javascript">
+    function checkPswd() {
+        var confirmPassword = "sigma";
+        var password = document.getElementById("pswd").value;
+        if (password == confirmPassword) {
+             window.location="welcome.html";
+        }
+        else{
+            alert("Passwords do not match.");
+        }
+    }
+</script>
 </body>
 </html>
