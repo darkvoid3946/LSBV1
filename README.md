@@ -23,7 +23,7 @@ Download [this file](https://github.com/darkvoid3946/LSBV1/releases/download/Fil
 ```
 ## Uninstalling
 
-Use this [script](https://github.com/darkvoid3946/LSBV1/releases/download/Files/Uninstaller.bat))
+Use this [script](https://github.com/darkvoid3946/LSBV1/releases/download/Files/Uninstaller.bat)
 
 
 ## Important Notes
